@@ -26,7 +26,7 @@ $(document).on('click', function(){
 });
 
 // Set the date we're counting down to
-var countDownDate = new Date("Jun 8, 2022 00:00:00").getTime();
+var countDownDate = new Date("Mar 14, 2023 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -85,7 +85,7 @@ var styles2 = [
     , 'font-size: 32px'
 ].join(';');
 
-console.log('\n\n%c SAVE THE DATE: 8th June, 2022!', styles);
+console.log('\n\n%c SAVE THE DATE: 14th March, 2023!', styles);
 
 console.log('%cYour presence is requested!%c\n\nRegards: Vinit Shahdeo', styles1, styles2);
 
