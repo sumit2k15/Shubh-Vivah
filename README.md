@@ -9,9 +9,6 @@
 💙 **।। मांगलिक परिणयोत्सव ।।** 💙 <br>
 🥁 🎊 अमित संग किरण🎊 🥁
 
-
-[![Wedding Website](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=Wedding-Invitation)](https://github.com/vinitshahdeo/Wedding-Invitation)
-
 ## Are you or your loved ones a *bride-to-be* or *groom-to-be*? 
 > Feel free to use this template to build your wedding website! Fork and make the following changes.
 
